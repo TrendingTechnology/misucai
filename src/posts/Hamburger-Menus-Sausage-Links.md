@@ -6,9 +6,7 @@ coverImage: https://res.cloudinary.com/diqqalzsx/image/upload/v1562058709/conten
 author: Frank
 excerpt: 在移动网页设计中常常会使用菜单导航，很长一段时间以来一直是使用Hamburger Menus。这不一定是坏事，如今，还有一个更简单的替代方案，就是Sausage
   Links。
-tags:
-- 菜单
-- 移动
+tags: []
 
 ---
 在移动网页设计中常常会使用菜单导航，很长一段时间以来一直是使用Hamburger Menus。这不一定是_坏事_，如今，还有一个更简单的替代方案，就是Sausage Links。
