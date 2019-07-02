@@ -1,6 +1,6 @@
 ---
 title: 如果您使用Hamburger Menus进行智能手机导航，请尝试使用Sausage Links
-path: ''
+path: Hamburger-Menus-Sausage-Links
 date: 2019-01-17
 coverImage: https://res.cloudinary.com/diqqalzsx/image/upload/v1562058709/content/uploads/sausagelink.gif
 author: Frank
