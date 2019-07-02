@@ -2,7 +2,7 @@
 title: 如果您使用Hamburger Menus进行手机菜单导航，请尝试使用Sausage Links
 path: Hamburger-Menus-Sausage-Links
 date: 2019-07-01T16:00:00Z
-coverImage: ''
+coverImage: https://res.cloudinary.com/diqqalzsx/image/upload/v1562058709/content/uploads/sausagelink.gif
 author: Frank
 excerpt: 在移动网页设计中常常会使用菜单导航，很长一段时间以来一直是使用Hamburger Menus。这不一定是坏事，如今，还有一个更简单的替代方案，就是Sausage
   Links。
@@ -12,6 +12,8 @@ tags:
 
 ---
 在移动网页设计中常常会使用菜单导航，很长一段时间以来一直是使用Hamburger Menus。这不一定是_坏事_，如今，还有一个更简单的替代方案，就是Sausage Links。
+
+![](https://res.cloudinary.com/diqqalzsx/image/upload/v1562058709/content/uploads/sausagelink.gif)
 
 在我们深入了解Sausage Links概念的细节（以及一个简单的演示）之前，让我们快速浏览一下汉堡包菜单的优缺点。
 
@@ -42,9 +44,9 @@ tags:
 
 <iframe height="265" style="width: 100%;" scrolling="no" title="Scrolling Navigation (Sausage Links)" src="//codepen.io/bradleytaunt/embed/preview/QXjjbE/?height=265&theme-id=0&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
 
-  See the Pen <a href='[https://codepen.io/bradleytaunt/pen/QXjjbE/](https://codepen.io/bradleytaunt/pen/QXjjbE/ "https://codepen.io/bradleytaunt/pen/QXjjbE/")'>Scrolling Navigation (Sausage Links)</a> by Bradley Taunt
+See the Pen <a href='[https://codepen.io/bradleytaunt/pen/QXjjbE/](https://codepen.io/bradleytaunt/pen/QXjjbE/ "https://codepen.io/bradleytaunt/pen/QXjjbE/")'>Scrolling Navigation (Sausage Links)</a> by Bradley Taunt
 
-  (<a href='[https://codepen.io/bradleytaunt](https://codepen.io/bradleytaunt "https://codepen.io/bradleytaunt")'>@bradleytaunt</a>) on <a href='[https://codepen.io](https://codepen.io "https://codepen.io")'>CodePen</a>.
+(<a href='[https://codepen.io/bradleytaunt](https://codepen.io/bradleytaunt "https://codepen.io/bradleytaunt")'>@bradleytaunt</a>) on <a href='[https://codepen.io](https://codepen.io "https://codepen.io")'>CodePen</a>.
 
 </iframe>
 
@@ -61,7 +63,7 @@ tags:
         </ul>
     </nav>
     
-
+    
     /* Sausage Links Nav Container */
     .sausage-links {
         position: relative;
@@ -101,7 +103,6 @@ tags:
     .sausage-links ul li a, .sausage-links ul li a:visited {
         display: inline-block;
     }
-    
 
 很简单，嗯？
 
