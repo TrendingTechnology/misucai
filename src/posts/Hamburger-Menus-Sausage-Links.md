@@ -1,14 +1,13 @@
 ---
-title: 如果您使用Hamburger Menus进行手机菜单导航，请尝试使用Sausage Links
-path: Hamburger-Menus-Sausage-Links
-date: 2019-07-01T16:00:00Z
-coverImage: https://res.cloudinary.com/diqqalzsx/image/upload/v1562058709/content/uploads/sausagelink.gif
-author: Frank
-excerpt: 在移动网页设计中常常会使用菜单导航，很长一段时间以来一直是使用Hamburger Menus。这不一定是坏事，如今，还有一个更简单的替代方案，就是Sausage
-  Links。
-tags: []
-
+title: "Hello Friend"
+path: "/hello"
+date: "2019-01-17"
+coverImage: "../images/hello.jpg"
+author: "Elliot"
+excerpt: '"Hello, friend?" That''s lame. Maybe I should give you a name...'
+tags: ["rob____ot", "hello friend"]
 ---
+
 在移动网页设计中常常会使用菜单导航，很长一段时间以来一直是使用Hamburger Menus。这不一定是_坏事_，如今，还有一个更简单的替代方案，就是Sausage Links。
 
 ![](https://res.cloudinary.com/diqqalzsx/image/upload/v1562058709/content/uploads/sausagelink.gif)
