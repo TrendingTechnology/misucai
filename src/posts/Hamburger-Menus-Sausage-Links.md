@@ -1,14 +1,17 @@
 ---
-title: "Hello Friend"
-path: "/hello"
-date: "2019-01-17"
-coverImage: "../images/hello.jpg"
-author: "Elliot"
-excerpt: '"Hello, friend?" That''s lame. Maybe I should give you a name...'
-tags: ["rob____ot", "hello friend"]
----
+title: 如果您使用Hamburger Menus进行智能手机导航，请尝试使用Sausage Links
+path: ''
+date: 2019-01-17
+coverImage: https://res.cloudinary.com/diqqalzsx/image/upload/v1562058709/content/uploads/sausagelink.gif
+author: ''
+excerpt: 在移动网页设计中常常会使用菜单导航，很长一段时间以来一直是使用Hamburger Menus。这不一定是坏事，如今，还有一个更简单的替代方案，就是Sausage
+  Links。
+tags:
+- 移动
+- 菜单
 
-在移动网页设计中常常会使用菜单导航，很长一段时间以来一直是使用Hamburger Menus。这不一定是_坏事_，如今，还有一个更简单的替代方案，就是Sausage Links。
+---
+在移动网页设计中常常会使用菜单导航，很长一段时间以来一直是使用Hamburger Menus。这不一定是坏事，如今，还有一个更简单的替代方案，就是Sausage Links。
 
 ![](https://res.cloudinary.com/diqqalzsx/image/upload/v1562058709/content/uploads/sausagelink.gif)
 
@@ -39,7 +42,7 @@ tags: ["rob____ot", "hello friend"]
 
 足够的闲聊，让我们来看看Sausage Links的运作情况：
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="Scrolling Navigation (Sausage Links)" src="//codepen.io/bradleytaunt/embed/preview/QXjjbE/?height=265&theme-id=0&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+<iframe height="565" style="width: 100%;" scrolling="no" title="Scrolling Navigation (Sausage Links)" src="//codepen.io/bradleytaunt/embed/preview/QXjjbE/?height=265&theme-id=0&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
 
 See the Pen <a href='[https://codepen.io/bradleytaunt/pen/QXjjbE/](https://codepen.io/bradleytaunt/pen/QXjjbE/ "https://codepen.io/bradleytaunt/pen/QXjjbE/")'>Scrolling Navigation (Sausage Links)</a> by Bradley Taunt
 
@@ -59,8 +62,7 @@ See the Pen <a href='[https://codepen.io/bradleytaunt/pen/QXjjbE/](https://codep
             <li><a href="">Contact Our Team</a></li>
         </ul>
     </nav>
-    
-    
+
     /* Sausage Links Nav Container */
     .sausage-links {
         position: relative;
