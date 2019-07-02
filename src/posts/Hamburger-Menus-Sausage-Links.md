@@ -2,7 +2,7 @@
 title: Sausage Links
 path: "/Hamburger-Menus-Sausage-Links"
 date: 2019-01-16T16:00:00Z
-coverImage: https://res.cloudinary.com/diqqalzsx/image/upload/v1562058709/content/uploads/sausagelink.gif
+coverImage: ''
 author: ''
 excerpt: ''
 tags:
