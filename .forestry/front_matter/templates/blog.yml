@@ -23,3 +23,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- src/posts/如果您使用hamburger-menus进行手机菜单导航-请尝试使用sausage-links.md
