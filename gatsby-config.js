@@ -7,17 +7,17 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
-    description: `A simple starter for Gatsby. That's it.`,
+    title: `觅素材`,
+    description: `介绍有关网页设计与制作的最新素材与资讯。`,
     copyrights: '',
-    author: `@panr`,
+    author: `Frank`,
     logo: {
       src: '',
       alt: '',
     },
-    logoText: 'hello friend',
-    defaultTheme: 'dark',
-    postsPerPage: 5,
+    logoText: '觅素材',
+    defaultTheme: 'light',
+    postsPerPage: 12,
     showMenuItems: 2,
     menuMoreText: 'Show more',
     mainMenu: [
